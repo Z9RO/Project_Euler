@@ -1,2 +1,6 @@
 *.txt
 *~
+
+.vscode
+*.in
+*.out
